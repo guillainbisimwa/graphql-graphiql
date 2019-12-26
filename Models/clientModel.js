@@ -14,11 +14,11 @@ const clientSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  sexe: {
+  sex: {
     type: String,
     required: true,
   },
-  adresse: {
+  adress: {
     type: String,
     required: true,
   },
