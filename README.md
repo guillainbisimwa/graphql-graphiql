@@ -4,12 +4,18 @@ GraphiQL is a React component that is fully customizable in terms of how your da
 # Getting started developing
 ```bash
 # Branch and/or clone the repo locally.
-#cd into it
-#install all the require packages: 
+# cd into it
+
+# Install all the require packages: 
+
 $ npm install
-#build the project: 
+
+# build the project: 
+
 $ npm run build
-#start the project: 
+
+# start the project: 
+
 $ npm start
 ```
 You'll see this message: 
